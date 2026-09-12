@@ -2,7 +2,7 @@
 
 Aspiring data analyst who loves turning entertainment & media datasets into clear, decision-ready insights.
 
-📊 Google Data Analytics Certified &nbsp;|&nbsp; 🎬 Background in Film & Media (UC Irvine) &nbsp;|&nbsp; 📈 Currently sharpening my SQL
+📊 Google Data Analytics Certified &nbsp;|&nbsp; 🎬 Background in Film & Media (UC Irvine) &nbsp;|&nbsp;
 
 ---
 
