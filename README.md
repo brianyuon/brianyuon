@@ -2,22 +2,24 @@
 
 Aspiring data analyst who loves turning entertainment & media datasets into clear, decision-ready insights.
 
-📊 Google Data Analytics Certified &nbsp;|&nbsp; 🎬 Background in Film & Media (UC Irvine) &nbsp;|&nbsp;
+📊 Google Data Analytics Certified &nbsp;|&nbsp; 🎬 Background in Film & Media (UC Irvine) &nbsp;
 
 ---
 
 ### 🙋‍♂️ About Me
 
-I started out telling stories through a camera lens — now I tell them through data. After building a foundation in film & media production, I found myself drawn to the stories hidden in numbers instead, and I've been chasing that curiosity ever since. I'm in the middle of a career transition into data analytics, bringing the same passion, curiosity, and drive to succeed that shaped my work behind the camera. Right now, I'm sharpening my skills through DataCamp.
+I started out telling stories through a camera lens — now I tell them through data. After building a foundation in film & media production, I found myself drawn to the stories hidden in numbers instead, and I've been chasing that curiosity ever since. I'm in the middle of a career transition into data analytics, bringing the same passion, curiosity, and drive to succeed that shaped my work behind the camera. 
+
+Currently, I'm sharpening my skills through DataCamp and working on my next personal project.
 
 ---
 
 ### 🛠️ Tools & Skills
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+- SQL
+- Google Sheets
+- Tableau
+- Excel
 
 ---
 
@@ -40,7 +42,7 @@ Examined 5,835 titles to test if Netflix's rapid catalog growth came at the cost
 ---
 
 ### 🎲 Fun Facts
-- 🎮 Huge gamer
+- 🎮 Huge gamer (Competitive or story-rich games)
 - 🏀 Love staying active — gym or basketball
 - 🍿 Love watching movies and TV shows
-- 📸 Love taking photos
+- 📸 Avid photographer
